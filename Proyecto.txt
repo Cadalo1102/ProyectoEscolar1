@@ -1,0 +1,6 @@
+Este es el primer proyecto de Git
+
+Llevo 4 meses en Platzi.
+El límite es el cielo.
+
+Sigamos.

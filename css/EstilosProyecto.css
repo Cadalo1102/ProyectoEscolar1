@@ -46,5 +46,5 @@ body
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 1em;
-    background: linear-gradient(to top, blue, white);
+    background: linear-gradient(to top, rgb(0, 162, 255), white);
 }

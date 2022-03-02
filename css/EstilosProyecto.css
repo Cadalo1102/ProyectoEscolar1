@@ -3,15 +3,33 @@ body
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    color: green;
+    color: blue;
     margin: 0;
     padding: 0;
+}
+
+#cabecera
+{
+    background: grey;
+    box-shadow: 0px 5px 10px 10px rgba(0,0,0,0.75);
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 5px solid black;
     margin: 0 auto;
@@ -20,4 +38,9 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    padding: 1em;
 }

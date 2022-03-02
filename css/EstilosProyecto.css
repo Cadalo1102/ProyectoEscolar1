@@ -44,11 +44,7 @@ body
 {
     text-align: justify;
     font-family: 'Courier New', Courier, monospace;
-    background-color: linear-gradient(to bottom, grey, white);
     margin: 0;
     padding: 1em;
-<<<<<<< HEAD
-=======
     background: linear-gradient(to top, blue, white);
->>>>>>> cabecera
 }

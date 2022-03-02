@@ -43,4 +43,5 @@ body
 #post
 {
     padding: 1em;
+    background: linear-gradient(to bottom, grey, white);
 }

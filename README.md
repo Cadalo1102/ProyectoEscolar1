@@ -20,4 +20,5 @@ También, **este es el primer README.md** que redacto.
 
 A continuación, el preview de cómo quedó el Proyecto:
 
-<img src="Preview.png">
+<div align="center">
+    <img src="images/Preview.png">

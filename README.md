@@ -19,6 +19,8 @@ También, **este es el primer README.md** que redacto.
 ------------
 
 A continuación, el preview de cómo quedó el Proyecto:
-
 <div align="center">
-    <img src="images/Preview.png">
+<p><a href="https://imgur.com/XNE81NE"><img src="https://i.imgur.com/XNE81NE.png" width="100%" title="Preview del proyecto"></a></p>
+</div>
+
+## Fin <3 
